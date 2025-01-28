@@ -1,40 +1,55 @@
-# Michael Mandle
+<p align="center">
+   <h1>Michael Mandle</h1>
+   <h3>Freelance Software Developer (UI/UX/FullStack)</h3>
+</p>
 
-**`Freelance Software Developer (UI/UX/FullStack)`**
+<p align="center">
+   🎯 **About Me**  
+   I'm a passionate Software Developer currently working at Techport. With a focus on creating seamless, efficient, and scalable solutions, I specialize in crafting robust APIs, handling databases, and building dynamic frontend experiences. I’m always eager to learn new technologies and explore innovative ways to solve complex problems.
+</p>
 
-🎯 **About Me**  
-Software Developer @ Techport | Crafting APIs, databases, and frontend experiences. Passionate about creating efficient and scalable solutions.
+<p align="center">
+   <a href="https://www.linkedin.com/in/michael-mandle-2b04751b4">
+      <img alt="LinkedIn" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/></a>
+   <a href="https://michaelmandle.com">
+      <img alt="Portfolio" title="Get To Work" src="https://custom-icon-badges.demolab.com/badge/-Portfolio-orange?style=for-the-badge&logo=web&logoColor=white&labelColor=E94E32"/></a>
+   <a href="https://github.com/mmandle?tab=followers">
+      <img alt="GitHub Followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/mmandle?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+   <a href="https://github.com/mmandle?tab=repositories&sort=stargazers">
+      <img alt="GitHub Stars" title="Total Stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/mmandle?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+</p>
 
-   <p align="left">
-      <a href="www.linkedin.com/in/michael-mandle-2b04751b4">
-         <img alt="linkedin" title="Follow Me On LinkedIn" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://michaelmandle.com">
-         <img alt="portfolio" title="Get To Work" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/mmandle?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/mmandle?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+---
+
+### 📷 **Get To Work**  
+<p align="center">
+   <a href="https://michaelmandle.com">
+      <img src="https://via.placeholder.com/600x300.png?text=Visit+My+Website" alt="Get to Work - Visit My Website" />
+   </a>
+</p>
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 **Languages and Tools**
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br />
+<p align="center">
+   <img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+   <img alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+   <img alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+   <img alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-plain.svg" />
+   <img alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+   <img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+   <img alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+   <img alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+   <img alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+   <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+   <img alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</p>
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmandle&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmandle&layout=compact&theme=radical)  
 
+### 📊 **GitHub Stats**
+<p align="center">
+   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mmandle&show_icons=true&theme=radical" />
+   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmandle&layout=compact&theme=radical" />
+</p>
