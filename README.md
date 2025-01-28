@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-   🎯 **About Me**  
+   🎯 **`About Me`**  
    I'm a dedicated Software Developer currently working at Techport. With a focus on creating seamless, efficient, and scalable solutions, I specialize in crafting robust APIs, handling databases, and building dynamic frontend experiences. I’m always eager to learn new technologies and explore innovative ways to solve complex problems.
 </p>
 
@@ -25,12 +25,6 @@
 <p align="center">
    <a href="https://michaelmandle.com">
       <img src="./screenshot.png" alt="Get to Work - Visit My Website" style="transition: transform 0.3s ease-in-out;" />
-   </a>
-</p>
-
-<p align="center">
-   <a href="https://michaelmandle.com">
-      <img src="./screenshot.png" alt="Get to Work - Visit My Website" style="transition: transform 0.3s ease-in-out; transform: scale(1.1);" />
    </a>
 </p>
 
