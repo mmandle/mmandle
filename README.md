@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-   🎯 **`About Me`**  
+   <h2>🎯 About Me </h2> 
    I'm a dedicated Software Developer currently working at Techport. With a focus on creating seamless, efficient, and scalable solutions, I specialize in crafting robust APIs, handling databases, and building dynamic frontend experiences. I’m always eager to learn new technologies and explore innovative ways to solve complex problems.
 </p>
 
@@ -47,7 +47,7 @@
 
 ---
 <details>
-   <summary>### 📊 **GitHub Stats** </summary>
+   <summary><h2> 📊 GitHub Stats</h2> </summary>
    <p align="center">
       <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mmandle&show_icons=true&theme=radical" />
       <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmandle&layout=compact&theme=radical" />
