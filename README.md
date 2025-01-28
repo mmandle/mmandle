@@ -1,7 +1,33 @@
 <p align="center">
-   <h1>Michael Mandle</h1>
+   <h1 class="animated-title">Michael Mandle</h1>
    <h3>Freelance Software Developer (UI/UX/FullStack)</h3>
 </p>
+
+<style>
+   .animated-title {
+      font-size: 4rem; 
+      text-align: center;
+      font-weight: bold;
+      animation: fadeIn 2s ease-in-out, typing 3s steps(30) 1s forwards;
+   }
+
+   @keyframes fadeIn {
+      0% { opacity: 0; }
+      100% { opacity: 1; }
+   }
+
+   @keyframes typing {
+      from { width: 0; }
+      to { width: 100%; }
+   }
+
+   .animated-title {
+      overflow: hidden; 
+      white-space: nowrap; 
+      border-right: 0.15em solid black;
+   }
+</style>
+
 
 <p align="center">
    🎯 **About Me**  
@@ -24,9 +50,20 @@
 ### 📷 **Get To Work**  
 <p align="center">
    <a href="https://michaelmandle.com">
-      <img src="./screenshot.png" alt="Get to Work - Visit My Website" />
+      <img class="hover-scale" src="./screenshot.png" alt="Get to Work - Visit My Website" />
    </a>
 </p>
+
+<style>
+   .hover-scale {
+      transition: transform 0.3s ease-in-out; /* Smooth transition */
+   }
+
+   .hover-scale:hover {
+      transform: scale(1.1); /* Scales the image by 10% when hovered */
+   }
+</style>
+
 
 ---
 
@@ -36,15 +73,14 @@
    <img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
    <img alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
    <img alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />      
+<img alt="React" width="30px" style="padding-right:10px;"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />      
    <img alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
    <img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
    <img alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
    <img alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
    <img alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-   <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
- <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
+   <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />   
 </p>
 
 ---
