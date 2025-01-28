@@ -24,7 +24,7 @@
 ### 📷 **Get To Work**  
 <p align="center">
    <a href="https://michaelmandle.com">
-      <img src="./screenshot.png" alt="Get to Work - Visit My Website" style="transition: transform 0.3s ease-in-out;" />
+      <img src="./screenshot.png" alt="Get to Work - Visit My Website" width="300px" />
    </a>
 </p>
 
@@ -46,9 +46,10 @@
 </p>
 
 ---
-
+<details>
 ### 📊 **GitHub Stats**
-<p align="center">
-   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mmandle&show_icons=true&theme=radical" />
-   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmandle&layout=compact&theme=radical" />
-</p>
+   <p align="center">
+      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mmandle&show_icons=true&theme=radical" />
+      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmandle&layout=compact&theme=radical" />
+   </p>
+</details>
