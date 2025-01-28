@@ -24,7 +24,7 @@
 ### 📷 **Get To Work**  
 <p align="center">
    <a href="https://michaelmandle.com">
-      <img src="assets/screenshot.png" alt="Get to Work - Visit My Website" />
+      <img src="./screenshot.png" alt="Get to Work - Visit My Website" />
    </a>
 </p>
 
